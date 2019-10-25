@@ -1,0 +1,15 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quintin's LED AI Project v1.1
+
+Author: Quintin Harter
+Date: WIP
+Email: qharter@gmail.com, qharter@umich.edu
+
+This project is a composition of python scripts to act as 
+a medium between the user and the Arduino controlling a
+strip of LEDs.
+
+New in v1.1:
+- Alarm functionality (set time, turn on/off, set mode)
+- New modes: flashing, gradient
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
